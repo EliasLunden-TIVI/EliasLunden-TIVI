@@ -1,6 +1,6 @@
 ### Moi / Hello!
 
-I am Elias, AKA "Nexu_ss", and I study software engineering at RASEKO, and hopefully get to continue my studies on the field as an future Engineer.
+I am Elias, AKA "Nexu_ss" and I live in Finland. I study software engineering at RASEKO, and hopefully get to continue my studies on the field as an future Engineer.
 
 ### What am I doing:
 
